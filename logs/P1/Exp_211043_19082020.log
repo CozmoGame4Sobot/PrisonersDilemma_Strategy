@@ -1,0 +1,134 @@
+2020-08-19 21:10:43,525 cozmo.general INFO     App connection established. sdk_version=0.14.0 cozmoclad_version=1.5.0 app_build_version=00001.00005.00000
+2020-08-19 21:10:43,527 cozmo.general INFO     Found robot id=1
+2020-08-19 21:10:43,538 cozmo.general INFO     Connected to Android device serial=HGADYZJF
+2020-08-19 21:10:43,693 cozmo.general INFO     Robot id=1 serial=02e0d6f2 initialized OK
+2020-08-19 21:10:45,467 cozmo.general INFO     Robot delocalized - invalidating poses for all objects
+2020-08-19 21:10:46,922 cozmo.general INFO     Robot delocalized - invalidating poses for all objects
+2020-08-19 21:10:53,892 cozmo.general INFO     PD : Playing experiment round
+2020-08-19 21:10:53,892 cozmo.general INFO     PD : Strategy = TIT_FOR_TAT
+2020-08-19 21:10:53,895 cozmo.general INFO     PD : Score set: [(4, 4), (10, 0), (0, 10), (6, 6)]
+2020-08-19 21:10:53,899 cozmo.general INFO     PD : Deal started
+2020-08-19 21:10:59,359 cozmo.general INFO     PD : Hand delt : 1
+2020-08-19 21:11:00,193 cozmo.general INFO     PD : Player tapped to grab
+2020-08-19 21:11:00,194 cozmo.general INFO     PD : Player tap registered grab
+2020-08-19 21:11:01,070 cozmo.general INFO     PD : Cozmo tapped share
+2020-08-19 21:11:01,070 cozmo.general INFO     PD : Cozmo tap registered share
+2020-08-19 21:11:03,580 cozmo.general INFO     PD : Hand deactivated : 1
+2020-08-19 21:11:03,583 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Shared
+2020-08-19 21:11:03,604 cozmo.general INFO     PD : After hand 1 player score : 10
+2020-08-19 21:11:03,604 cozmo.general INFO     PD : After hand 1 cozmo score  : 0
+2020-08-19 21:11:14,082 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:11:14,082 cozmo.general INFO     PD : Deal started
+2020-08-19 21:11:18,559 cozmo.general INFO     PD : Hand delt : 2
+2020-08-19 21:11:19,335 cozmo.general INFO     PD : Player tapped to share
+2020-08-19 21:11:19,336 cozmo.general INFO     PD : Player tap registered share
+2020-08-19 21:11:20,274 cozmo.general INFO     PD : Cozmo tapped grab
+2020-08-19 21:11:20,275 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-08-19 21:11:22,796 cozmo.general INFO     PD : Hand deactivated : 2
+2020-08-19 21:11:22,797 cozmo.general INFO     PD : Result : Cozmo-Grabbed Player-Shared
+2020-08-19 21:11:22,819 cozmo.general INFO     PD : After hand 2 player score : 0
+2020-08-19 21:11:22,820 cozmo.general INFO     PD : After hand 2 cozmo score  : 10
+2020-08-19 21:11:33,447 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:11:33,447 cozmo.general INFO     PD : Deal started
+2020-08-19 21:11:38,015 cozmo.general INFO     PD : Hand delt : 3
+2020-08-19 21:11:39,343 cozmo.general INFO     PD : Player tapped to share
+2020-08-19 21:11:39,343 cozmo.general INFO     PD : Player tap registered share
+2020-08-19 21:11:39,731 cozmo.general INFO     PD : Cozmo tapped share
+2020-08-19 21:11:39,732 cozmo.general INFO     PD : Cozmo tap registered share
+2020-08-19 21:11:42,250 cozmo.general INFO     PD : Hand deactivated : 3
+2020-08-19 21:11:42,250 cozmo.general INFO     PD : Result : Player-Shared Cozmo-Shared
+2020-08-19 21:11:42,275 cozmo.general INFO     PD : After hand 3 player score : 6
+2020-08-19 21:11:42,276 cozmo.general INFO     PD : After hand 3 cozmo score  : 6
+2020-08-19 21:11:52,853 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:11:52,853 cozmo.general INFO     PD : Deal started
+2020-08-19 21:11:57,357 cozmo.general INFO     PD : Hand delt : 4
+2020-08-19 21:11:58,316 cozmo.general INFO     PD : Player tapped to grab
+2020-08-19 21:11:58,317 cozmo.general INFO     PD : Player tap registered grab
+2020-08-19 21:11:59,071 cozmo.general INFO     PD : Cozmo tapped share
+2020-08-19 21:11:59,072 cozmo.general INFO     PD : Cozmo tap registered share
+2020-08-19 21:12:01,595 cozmo.general INFO     PD : Hand deactivated : 4
+2020-08-19 21:12:01,595 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Shared
+2020-08-19 21:12:01,620 cozmo.general INFO     PD : After hand 4 player score : 10
+2020-08-19 21:12:01,620 cozmo.general INFO     PD : After hand 4 cozmo score  : 0
+2020-08-19 21:12:13,539 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:12:13,540 cozmo.general INFO     PD : Deal started
+2020-08-19 21:12:18,059 cozmo.general INFO     PD : Hand delt : 5
+2020-08-19 21:12:18,805 cozmo.general INFO     PD : Player tapped to grab
+2020-08-19 21:12:18,806 cozmo.general INFO     PD : Player tap registered grab
+2020-08-19 21:12:19,782 cozmo.general INFO     PD : Cozmo tapped grab
+2020-08-19 21:12:19,783 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-08-19 21:12:22,309 cozmo.general INFO     PD : Hand deactivated : 5
+2020-08-19 21:12:22,312 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Grabbed
+2020-08-19 21:12:22,337 cozmo.general INFO     PD : After hand 5 player score : 4
+2020-08-19 21:12:22,338 cozmo.general INFO     PD : After hand 5 cozmo score  : 4
+2020-08-19 21:12:32,809 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:12:32,809 cozmo.general INFO     PD : Deal started
+2020-08-19 21:12:37,313 cozmo.general INFO     PD : Hand delt : 6
+2020-08-19 21:12:38,017 cozmo.general INFO     PD : Player tapped to grab
+2020-08-19 21:12:38,017 cozmo.general INFO     PD : Player tap registered grab
+2020-08-19 21:12:39,035 cozmo.general INFO     PD : Cozmo tapped grab
+2020-08-19 21:12:39,036 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-08-19 21:12:41,552 cozmo.general INFO     PD : Hand deactivated : 6
+2020-08-19 21:12:41,553 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Grabbed
+2020-08-19 21:12:41,578 cozmo.general INFO     PD : After hand 6 player score : 4
+2020-08-19 21:12:41,578 cozmo.general INFO     PD : After hand 6 cozmo score  : 4
+2020-08-19 21:12:52,208 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:12:52,208 cozmo.general INFO     PD : Deal started
+2020-08-19 21:12:57,668 cozmo.general INFO     PD : Hand delt : 7
+2020-08-19 21:12:58,382 cozmo.general INFO     PD : Player tapped to share
+2020-08-19 21:12:58,382 cozmo.general INFO     PD : Player tap registered share
+2020-08-19 21:12:59,382 cozmo.general INFO     PD : Cozmo tapped grab
+2020-08-19 21:12:59,383 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-08-19 21:13:01,907 cozmo.general INFO     PD : Hand deactivated : 7
+2020-08-19 21:13:01,908 cozmo.general INFO     PD : Result : Cozmo-Grabbed Player-Shared
+2020-08-19 21:13:01,930 cozmo.general INFO     PD : After hand 7 player score : 0
+2020-08-19 21:13:01,931 cozmo.general INFO     PD : After hand 7 cozmo score  : 10
+2020-08-19 21:13:12,447 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:13:12,447 cozmo.general INFO     PD : Deal started
+2020-08-19 21:13:16,775 cozmo.general INFO     PD : Hand delt : 8
+2020-08-19 21:13:17,601 cozmo.general INFO     PD : Player tapped to grab
+2020-08-19 21:13:17,602 cozmo.general INFO     PD : Player tap registered grab
+2020-08-19 21:13:18,487 cozmo.general INFO     PD : Cozmo tapped share
+2020-08-19 21:13:18,489 cozmo.general INFO     PD : Cozmo tap registered share
+2020-08-19 21:13:21,007 cozmo.general INFO     PD : Hand deactivated : 8
+2020-08-19 21:13:21,007 cozmo.general INFO     PD : Result : Player-Grabbed Cozmo-Shared
+2020-08-19 21:13:21,023 cozmo.general INFO     PD : After hand 8 player score : 10
+2020-08-19 21:13:21,024 cozmo.general INFO     PD : After hand 8 cozmo score  : 0
+2020-08-19 21:13:31,485 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:13:31,486 cozmo.general INFO     PD : Deal started
+2020-08-19 21:13:37,007 cozmo.general INFO     PD : Hand delt : 9
+2020-08-19 21:13:38,149 cozmo.general INFO     PD : Player tapped to share
+2020-08-19 21:13:38,150 cozmo.general INFO     PD : Player tap registered share
+2020-08-19 21:13:38,722 cozmo.general INFO     PD : Cozmo tapped grab
+2020-08-19 21:13:38,724 cozmo.general INFO     PD : Cozmo tap registered grab
+2020-08-19 21:13:41,254 cozmo.general INFO     PD : Hand deactivated : 9
+2020-08-19 21:13:41,255 cozmo.general INFO     PD : Result : Cozmo-Grabbed Player-Shared
+2020-08-19 21:13:41,279 cozmo.general INFO     PD : After hand 9 player score : 0
+2020-08-19 21:13:41,279 cozmo.general INFO     PD : After hand 9 cozmo score  : 10
+2020-08-19 21:13:57,417 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:13:57,418 cozmo.general INFO     PD : Deal started
+2020-08-19 21:14:02,088 cozmo.general INFO     PD : Hand delt : 10
+2020-08-19 21:14:03,804 cozmo.general INFO     PD : Cozmo tapped share
+2020-08-19 21:14:03,805 cozmo.general INFO     PD : Cozmo tap registered share
+2020-08-19 21:14:06,322 cozmo.general INFO     PD : Hand deactivated : 10
+2020-08-19 21:14:06,323 cozmo.general INFO     PD : Missing data at deal 10
+2020-08-19 21:14:06,325 cozmo.general INFO     PD : Result : Missing Data
+2020-08-19 21:14:06,350 cozmo.general INFO     PD : After hand 10 player score : 0
+2020-08-19 21:14:06,351 cozmo.general INFO     PD : After hand 10 cozmo score  : 0
+2020-08-19 21:14:13,867 cozmo.general INFO     PD : Rounds incremented to compensate for missing data
+2020-08-19 21:14:13,867 cozmo.general INFO     PD : Updated cozmo plan
+2020-08-19 21:14:13,873 cozmo.general INFO     PD : ['Share', 'Share', 'Share', 'Grab', 'Grab', 'Grab', 'Grab', 'Grab', 'Share', 'Missing', 'Missing']
+2020-08-19 21:14:16,872 cozmo.general INFO     PD : Ready for next deal
+2020-08-19 21:14:16,873 cozmo.general INFO     PD : Deal started
+2020-08-19 21:14:21,359 cozmo.general INFO     PD : Hand delt : 11
+2020-08-19 21:14:22,326 cozmo.general INFO     PD : Player tapped to share
+2020-08-19 21:14:22,327 cozmo.general INFO     PD : Player tap registered share
+2020-08-19 21:14:23,074 cozmo.general INFO     PD : Cozmo tapped share
+2020-08-19 21:14:23,075 cozmo.general INFO     PD : Cozmo tap registered share
+2020-08-19 21:14:25,591 cozmo.general INFO     PD : Hand deactivated : 11
+2020-08-19 21:14:25,592 cozmo.general INFO     PD : Result : Player-Shared Cozmo-Shared
+2020-08-19 21:14:25,614 cozmo.general INFO     PD : After hand 11 player score : 6
+2020-08-19 21:14:25,614 cozmo.general INFO     PD : After hand 11 cozmo score  : 6
+2020-08-19 21:14:33,018 cozmo.general INFO     PD : Done playing
+2020-08-19 21:14:44,383 cozmo.general INFO     Shutting down connection
+2020-08-19 21:14:44,384 cozmo.general INFO     Android serial=HGADYZJF disconnected.
